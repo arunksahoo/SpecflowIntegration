@@ -1,0 +1,37 @@
+2019-04-16 12:10:47,994 [ParallelWorker#4] DEBUG EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - Lunched Browser
+2019-04-16 12:10:54,875 [ParallelWorker#4] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - Navigate to UI
+2019-04-16 12:11:03,968 [ParallelWorker#4] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - Navigate to Project Search Page
+2019-04-16 12:11:09,566 [ParallelWorker#4] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - User able to select the items
+2019-04-16 12:11:14,362 [ParallelWorker#4] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src -  checkAll
+2019-04-16 12:11:15,083 [ParallelWorker#4] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - create portfolio
+2019-04-16 12:11:22,520 [ParallelWorker#4] DEBUG EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - Browser is closed
+2019-04-16 12:20:24,926 [ParallelWorker#3] DEBUG EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - Lunched Browser
+2019-04-16 12:20:31,003 [ParallelWorker#3] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - Navigate to UI
+2019-04-16 12:20:39,889 [ParallelWorker#3] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - Navigate to Project Search Page
+2019-04-16 12:20:48,380 [ParallelWorker#3] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - User able to select the items
+2019-04-16 12:20:53,300 [ParallelWorker#3] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src -  checkAll
+2019-04-16 12:20:54,502 [ParallelWorker#3] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - create portfolio
+2019-04-16 12:20:56,197 [ParallelWorker#3] DEBUG EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - Browser is closed
+2019-04-16 12:21:25,523 [ParallelWorker#3] DEBUG EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - Lunched Browser
+2019-04-16 12:21:31,727 [ParallelWorker#3] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - Navigate to UI
+2019-04-16 12:21:42,889 [ParallelWorker#3] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - Navigate to Project Search Page
+2019-04-16 12:21:46,223 [ParallelWorker#3] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - User able to select the items
+2019-04-16 12:21:51,187 [ParallelWorker#3] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src -  checkAll
+2019-04-16 12:21:52,407 [ParallelWorker#3] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - create portfolio
+2019-04-16 12:21:54,120 [ParallelWorker#3] DEBUG EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - Browser is closed
+2019-04-16 12:23:14,828 [15] DEBUG EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - Lunched Browser
+2019-04-16 12:23:20,181 [15] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - Navigate to UI
+2019-04-16 12:23:29,368 [15] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - Navigate to Project Search Page
+2019-04-16 12:23:32,768 [15] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - User able to select the items
+2019-04-16 12:23:37,579 [15] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src -  checkAll
+2019-04-16 12:23:38,771 [15] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - create portfolio
+2019-04-16 12:23:40,431 [15] DEBUG EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - Browser is closed
+2019-04-16 15:07:30,616 [ParallelWorker#3] DEBUG EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - Lunched Browser
+2019-04-16 15:07:36,758 [ParallelWorker#3] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - Navigate to UI
+2019-04-16 15:07:47,884 [ParallelWorker#3] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - Navigate to Project Search Page
+2019-04-16 15:07:51,217 [ParallelWorker#3] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - User able to select the items
+2019-04-16 15:07:56,203 [ParallelWorker#3] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src -  checkAll
+2019-04-16 15:07:57,427 [ParallelWorker#3] INFO EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - create portfolio
+2019-04-16 15:07:59,091 [ParallelWorker#3] DEBUG EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - Browser is closed
+2019-04-30 18:38:52,436 [ParallelWorker#3] DEBUG EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - Lunched Browser
+2019-04-30 18:39:04,108 [ParallelWorker#3] DEBUG EOS_Group.TestScripts.Home_Createportfolio_Deleteportfolio_src - Browser is closed
